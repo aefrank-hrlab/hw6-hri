@@ -1,0 +1,2 @@
+hw6:ros_astra_camera:ros_astra_launch
+-DCATKIN_DEVEL_PREFIX=/home/turtlebot/andi_ws/devel -DCMAKE_INSTALL_PREFIX=/home/turtlebot/andi_ws/install -G Unix Makefiles

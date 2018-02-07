@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/andi_ws/devel
+
+Name: hw6
+Description: Description of hw6
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/turtlebot/andi_ws/devel/lib 
+Requires: 
